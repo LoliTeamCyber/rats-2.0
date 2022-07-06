@@ -1,7 +1,7 @@
 # rats-2.0
 Send Dangerous Rats to all android models with just Phone Number 
 
-You can send a mouse virus to the target android with just a phone number 
+You can send a rats virus to the target android with just a phone number 
 
 Effects of this virus 
 #The target's cellphone causes heat
@@ -17,4 +17,7 @@ Then you have to enter the Number of  harmful mice to the target
 And wait about 30 minutes The effect will appear instantly 
 
 PP Only for Termux Users
+
+this is just entertainment 
+Our Channel : Android Security
 
